@@ -1,10 +1,9 @@
 ### Hi I'm Jaziel Isaí 👋 👨🏻‍💻 🎤 🎧 🎼 🎹 🎸
-![jaziel](https://user-images.githubusercontent.com/92839539/160761640-262f9798-8ca5-4eea-a8e5-27f9113afff3.jpg)
 
 <!--
 **JazielIsai/JazielIsai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-> Never stop learnig.
+![jaziel](https://user-images.githubusercontent.com/92839539/160761640-262f9798-8ca5-4eea-a8e5-27f9113afff3.jpg)
 
 Here are some ideas to get you started:
 
@@ -23,6 +22,12 @@ Here are some ideas to get you started:
 - [instagram](https://www.instagram.com/isaigarrido)
 - [twitter](https://twitter.com/Code_Isai)
 - [linkedin](https://www.linkedin.com/in/dev-isa%C3%AD-garrido-3866a0228/)
+
+
+> Never stop thanking God
+> Never stop learnig.
+> Never stop trying
+> Never stop fighting
 
 
 ## About me
