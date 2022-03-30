@@ -3,12 +3,6 @@
 <!--
 **JazielIsai/JazielIsai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## My Social Networks
-- [Youtube](https://www.youtube.com/channel/UCHDXr_nT0Gtjeqw2NVJQiPA)
-- [instagram](https://www.instagram.com/isaigarrido)
-- [twitter](https://twitter.com/Code_Isai)
-- [linkedin](https://www.linkedin.com/in/dev-isa%C3%AD-garrido-3866a0228/)
-
 > Never stop learnig.
 
 Here are some ideas to get you started:
@@ -22,6 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My Social Networks
+- [Youtube](https://www.youtube.com/channel/UCHDXr_nT0Gtjeqw2NVJQiPA)
+- [instagram](https://www.instagram.com/isaigarrido)
+- [twitter](https://twitter.com/Code_Isai)
+- [linkedin](https://www.linkedin.com/in/dev-isa%C3%AD-garrido-3866a0228/)
+
 
 ## About me
 
