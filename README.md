@@ -24,10 +24,13 @@ Here are some ideas to get you started:
 - [linkedin](https://www.linkedin.com/in/dev-isa%C3%AD-garrido-3866a0228/)
 
 
-> Never stop thanking God
+> Never stop thanking God.
+
 > Never stop learnig.
-> Never stop trying
-> Never stop fighting
+
+> Never stop trying.
+
+> Never stop fighting.
 
 
 ## About me
