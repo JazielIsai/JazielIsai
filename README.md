@@ -16,9 +16,29 @@ Here are some ideas to get you started:
 -->
 
 ```javascript
-  let = user {
+  const = user {
     Name: 'Jaziel Isaí',
     Age: 21,
-    
+    Code: ["C#","JavaScript", "PHP", "SQL and MySql", "HTML", "CSS"],
+    Tools: ["React", "Node.js"],
+    School: "ITESI -> Intituto Tecnológico Superior de Irapuato",
+    Links: {
+      youtube: "https://www.youtube.com/channel/UCHDXr_nT0Gtjeqw2NVJQiPA",
+      instagram: "https://www.instagram.com/isaigarrido",
+      twitter: "https://twitter.com/Code_Isai",
+      linkedin: "https://www.linkedin.com/in/dev-isa%C3%AD-garrido-3866a0228/"
+    }
   }
+```
+
+
+Rutting of work
+```mermaid
+graph LR
+A[Sleep] -- Wake up early --> B((Drink coffe  ))
+B --> C((Programming))
+B --> F((Eat and Dring))
+C --> E{Get distracted}
+F --> E
+A -- Wake up early --> D(( Personal live ))
 ```
