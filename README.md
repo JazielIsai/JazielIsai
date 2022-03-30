@@ -1,4 +1,4 @@
-### Hi I'm Jaziel Isaí 👋 👨🏻‍💻 🎤 🎧 🎼 🎹 🎸
+# Hi I'm Jaziel Isaí 👋 👨🏻‍💻 🎤 🎧 🎼 🎹 🎸
 
 <!--
 **JazielIsai/JazielIsai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ## My Social Networks
 - [Youtube](https://www.youtube.com/channel/UCHDXr_nT0Gtjeqw2NVJQiPA)
-- [instagram](https://www.instagram.com/isaigarrido)
-- [twitter](https://twitter.com/Code_Isai)
-- [linkedin](https://www.linkedin.com/in/dev-isa%C3%AD-garrido-3866a0228/)
+- [Instagram](https://www.instagram.com/isaigarrido)
+- [Twitter](https://twitter.com/Code_Isai)
+- [Linkedin](https://www.linkedin.com/in/dev-isa%C3%AD-garrido-3866a0228/)
 
 
 > Never stop thanking God.
