@@ -1,4 +1,5 @@
 ### Hi I'm Jaziel Isaí 👋 👨🏻‍💻 🎤 🎧 🎼 🎹 🎸
+![jaziel](https://user-images.githubusercontent.com/92839539/160761640-262f9798-8ca5-4eea-a8e5-27f9113afff3.jpg)
 
 <!--
 **JazielIsai/JazielIsai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
