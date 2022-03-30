@@ -18,10 +18,8 @@ Here are some ideas to get you started:
 -->
 
 ## My Social Networks
-- [Youtube](https://www.youtube.com/channel/UCHDXr_nT0Gtjeqw2NVJQiPA)
-- [Instagram](https://www.instagram.com/isaigarrido)
-- [Twitter](https://twitter.com/Code_Isai)
-- [Linkedin](https://www.linkedin.com/in/dev-isa%C3%AD-garrido-3866a0228/)
+
+- [Youtube](https://www.youtube.com/channel/UCHDXr_nT0Gtjeqw2NVJQiPA)  - [Instagram](https://www.instagram.com/isaigarrido) - [Twitter](https://twitter.com/Code_Isai) - [Linkedin](https://www.linkedin.com/in/dev-isa%C3%AD-garrido-3866a0228/) 
 
 
 > Never stop thanking God.
