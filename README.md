@@ -51,22 +51,19 @@ Here are some ideas to get you started:
 
 ### Github Stats
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JazielIsai&layout=compact)](https://github.com/JazielIsai)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JazielIsai&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/JazielIsai)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=JazielIsai&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
+
 <a href="https://github.com/JazielIsai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JazielIsai&repo=Blog" />
 </a>
 <a href="https://github.com/JazielIsai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JazielIsai&repo=itsp-web" />
 </a>
 
-
-### REPO
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazielIsai&repo=Blog)](https://github.com/JazielIsai/Blog)
 
 
 Rutting of work
