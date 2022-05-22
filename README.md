@@ -51,16 +51,16 @@ Here are some ideas to get you started:
 
 ### Github Stats
   
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JazielIsai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="center">
   <a href="https://github.com/JazielIsai"><span>
-    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=JazielIsai&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JazielIsai&theme=radical" />
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JazielIsai&theme=dracula" />
-    </span></a>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JazielIsai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    
+  </span></a>
 </p>
+
+### REPO
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JazielIsai&repo=Blog)](https://github.com/JazielIsai/Blog)
 
 
 Rutting of work
