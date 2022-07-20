@@ -61,15 +61,6 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=JazielIsai&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
-### Repositories
-<a href="https://github.com/JazielIsai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JazielIsai&repo=Blog" />
-</a>
-<a href="https://github.com/JazielIsai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JazielIsai&repo=itsp-web" />
-</a>
-
-
 
 ### Rutting of work
 ```mermaid
