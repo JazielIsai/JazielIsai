@@ -55,7 +55,16 @@ Here are some ideas to get you started:
 ```
 
 ### Github Stats
-  
+
+
+[![Grafica](https://activity-graph.herokuapp.com/graph?username=JazielIsai&custom_title=Last%2031%20Days&theme=github&area=true&hide_border=true)]()
+
+[![Lo que más uso](https://github-readme-stats.vercel.app/api/top-langs/?username=JazielIsai&layout=compact&custom_title=Lo%20que%20m%C3%A1s%20uso%20&hide_title=false&langs_count=10&card_width=230&bg_color=293036ff&title_color=DDDDDD&text_color=DDDDDD&hide_border=false&border_color=293036ff&line_height=20)](https://github.com/anuraghazra/github-readme-stats) 
+[![]()]()
+[![Racha](http://github-readme-streak-stats.herokuapp.com?user=JazielIsai&theme=radical&hide_border=true&background=293036&dates=293036&ring=60BEDC&sideNums=DDDDDD&currStreakLabel=DDDDDD&currStreakNum=36CF21&fire=FF6247&sideLabels=DDDDDD#center)](https://git.io/streak-stats) 
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JazielIsai&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/JazielIsai)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=JazielIsai&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
