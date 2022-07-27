@@ -63,10 +63,6 @@ Here are some ideas to get you started:
 [![]()]()
 [![Racha](http://github-readme-streak-stats.herokuapp.com?user=JazielIsai&theme=radical&hide_border=true&background=293036&dates=293036&ring=60BEDC&sideNums=DDDDDD&currStreakLabel=DDDDDD&currStreakNum=36CF21&fire=FF6247&sideLabels=DDDDDD#center)](https://git.io/streak-stats) 
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JazielIsai&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/JazielIsai)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=JazielIsai&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
