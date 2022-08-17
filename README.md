@@ -70,14 +70,3 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=JazielIsai&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
-
-### Rutting of work
-```mermaid
-graph LR
-A[Sleep] -- Wake up early --> B((Drink coffe  ))
-B --> C((Programming))
-B --> F((Eat and Dring))
-C --> E{Get distracted}
-F --> E
-A -- Wake up early --> D(( Personal live ))
-```
