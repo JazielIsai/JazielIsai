@@ -54,7 +54,7 @@ Here are some ideas to get you started:
     School: "ITESI -> Intituto Tecnológico Superior de Irapuato",
     Links: {
       instagram: "https://www.instagram.com/isaigarrido",
-      linkedin: "https://www.linkedin.com/in/dev-isa%C3%AD-garrido-3866a0228/"
+      linkedin: "https://www.linkedin.com/in/jaziel-isa%C3%AD-p-3866a0228/"
     }
   }
 ```
