@@ -49,8 +49,8 @@ Here are some ideas to get you started:
   const = user {
     Name: 'Jaziel Isaí',
     Age: 22,
-    Code: ["C#","JavaScript", "PHP", "SQL and MySql", "HTML", "CSS"],
-    Tools: ["React", "Node.js"],
+    Code: ["C#","JavaScript", "PHP", "SQL and MySql", "HTML", "CSS", "Python"],
+    Tools: ["React", "Node.js", "Bootstrap", "Scss"],
     School: "ITESI -> Intituto Tecnológico Superior de Irapuato",
     Links: {
       instagram: "https://www.instagram.com/isaigarrido",
