@@ -50,7 +50,7 @@ Here are some ideas to get you started:
     Name: 'Jaziel Isaí',
     Age: 24,
     Code: ["C#","JavaScript", "PHP", "SQL and MySql", "HTML", "CSS", "Python"],
-    Tools: ["React", "Node.js", "Bootstrap", "Scss"],
+    Tools: ["React", "Node.js", "Django", "Django Rest Framework", "Laravel", "Bootstrap", "Scss"],
     School: "ITESI -> Intituto Tecnológico Superior de Irapuato",
     Links: {
       instagram: "https://www.instagram.com/isaigarrido",
