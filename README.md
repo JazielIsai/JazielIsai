@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 ```javascript
   const = user {
     Name: 'Jaziel Isaí',
-    Age: 24,
+    Age: 25,
     Code: ["C#","JavaScript", "PHP", "SQL and MySql", "HTML", "CSS", "Python"],
     Tools: ["React", "Node.js", "Django", "Django Rest Framework", "Laravel", "Bootstrap", "Scss"],
     School: "ITESI -> Intituto Tecnológico Superior de Irapuato",
