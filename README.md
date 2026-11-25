@@ -1,67 +1,24 @@
-# Hi I'm Jaziel Isaí 👋 👨🏻‍💻 🎤 🎧 🎼 🎹 🎸
+# Hi, I'm Jaziel Isaí 👋
 
-<!--
-**JazielIsai/JazielIsai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![jaziel](https://user-images.githubusercontent.com/92839539/160761640-262f9798-8ca5-4eea-a8e5-27f9113afff3.jpg)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## My Social Networks
-
-- [Youtube](https://www.youtube.com/channel/UCHDXr_nT0Gtjeqw2NVJQiPA)  - [Instagram](https://www.instagram.com/isaigarrido) - [Twitter](https://twitter.com/Code_Isai) - [Linkedin](https://www.linkedin.com/in/dev-isa%C3%AD-garrido-3866a0228/)  - [My page](https://isai-dev.com/#inicio) 
-
-
-> Never stop thanking God.
-
-> Never stop learnig.
-
-> Never stop trying.
-
-> Never stop fighting.
-
+I'm a developer who enjoys building for the web and making music. 👨🏻‍💻 🎤 🎧 🎼 🎹 🎸
 
 ## About me
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+- 🎓 I studied at Instituto Tecnológico Superior de Irapuato (ITESI).
+- 💻 I work with C#, JavaScript, PHP, Python, SQL, HTML, and CSS.
+- 🛠️ My tools include React, Redux, Node.js, Django, Django REST Framework, Laravel, Bootstrap, Sass, MySQL, and Git.
 
+## Find me online
 
-```javascript
-  const = user {
-    Name: 'Jaziel Isaí',
-    Age: 25,
-    Code: ["C#","JavaScript", "PHP", "SQL and MySql", "HTML", "CSS", "Python"],
-    Tools: ["React", "Node.js", "Django", "Django Rest Framework", "Laravel", "Bootstrap", "Scss"],
-    School: "ITESI -> Intituto Tecnológico Superior de Irapuato",
-    Links: {
-      instagram: "https://www.instagram.com/isaigarrido",
-      linkedin: "https://www.linkedin.com/in/jaziel-isa%C3%AD-p-3866a0228/"
-    }
-  }
-```
+[YouTube](https://www.youtube.com/channel/UCHDXr_nT0Gtjeqw2NVJQiPA) · [Instagram](https://www.instagram.com/isaigarrido) · [X / Twitter](https://twitter.com/Code_Isai) · [LinkedIn](https://www.linkedin.com/in/jaziel-isa%C3%AD-p-3866a0228/) · [Website](https://isai-dev.com/#inicio)
 
-### Github Stats
+## GitHub activity
 
-[![Lo que más uso](https://github-readme-stats.vercel.app/api/top-langs/?username=JazielIsai&layout=compact&custom_title=Lo%20que%20m%C3%A1s%20uso%20&hide_title=false&langs_count=10&card_width=230&bg_color=293036ff&title_color=DDDDDD&text_color=DDDDDD&hide_border=false&border_color=293036ff&line_height=20)](https://github.com/anuraghazra/github-readme-stats) 
-[![]()]()
-[![Racha](http://github-readme-streak-stats.herokuapp.com?user=JazielIsai&theme=radical&hide_border=true&background=293036&dates=293036&ring=60BEDC&sideNums=DDDDDD&currStreakLabel=DDDDDD&currStreakNum=36CF21&fire=FF6247&sideLabels=DDDDDD#center)](https://git.io/streak-stats) 
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JazielIsai&layout=compact&langs_count=10&bg_color=293036&title_color=DDDDDD&text_color=DDDDDD&border_color=293036)
 
+![GitHub contribution streak](https://streak-stats.demolab.com/?user=JazielIsai&theme=radical)
+
+> Never stop thanking God.  
+> Never stop learning.  
+> Never stop trying.  
+> Never stop fighting.
